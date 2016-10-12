@@ -11,8 +11,12 @@
 
     <!-- Splash Theme theme. -->
     <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
         <item name="android:windowFullscreen">true</item>
+    </style>
 
+    <!-- Splash Theme theme. -->
+    <style name="SplashWithBackgroundTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:background">@drawable/splash_background</item>
     </style>
 </resources>
