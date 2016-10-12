@@ -11,11 +11,11 @@
     tools:context="com.splashscreen.MainActivity">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/txt_home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:text="@string/txt_home"
         android:textColor="@color/navy"
-        android:textSize="@dimen/textSize_22" />
+        android:textSize="@dimen/textSize_28" />
 </RelativeLayout>
